@@ -44,7 +44,7 @@ La regla principal, es crear las exigencias requeridas y luego aplicar la creati
 
 ```sh
  Se debe crear una app, dentro de la plataforma de comunicaciones de Telegram, 
- que permita mostrar los productos de la plataforma FakeStoreAPi.
+ que permita mostrar los productos de la plataforma FakeStoreAPI.
  La App debe hacer las siguientes acciones
  
  1) Mostrar un mensaje de bienvenida y el menú de opciones
