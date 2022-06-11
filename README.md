@@ -54,7 +54,7 @@ La regla principal, es crear las exigencias requeridas y luego aplicar la creati
     3) zonas de entrega para delivery y horario de trabajo
 ``` 
 
-### 🔹 OPCIÓN 1) Mostrar un mensaje de bienvenida y el menú de opciones
+### 🔹 OPCIÓN 1) Mostrar mensaje de bienvenida y el menú de opciones
 ```sh
   *) Listar solo 20 productos de la plataforma con su (ID, Titulo, Precio);
   *) Al final de la lista mostrar un menú de opciones:
@@ -79,7 +79,7 @@ La regla principal, es crear las exigencias requeridas y luego aplicar la creati
 ```
 
 
-### 🔹 OPCIÓN 2) Ver métodos de pagos, son tres (efectivo,transferencia,cryptos(BTC,ETH,USDT))
+### 🔹 OPCIÓN 2) Ver métodos de pagos (efectivo,transferencia,cryptos(BTC,ETH,USDT))
 ```sh
   *) Listar los diferentes métodos de pagos (efectivo,transferencia,cryptos(BTC,ETH,USDT))
   
